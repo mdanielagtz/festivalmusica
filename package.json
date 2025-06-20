@@ -16,9 +16,12 @@
   "author": "Martina Daniela",
   "license": "ISC",
   "devDependencies": {
+    "glob": "^11.0.3",
     "gulp": "^5.0.1",
     "gulp-sass": "^6.0.1",
-    "gulp-sourcemaps": "^3.0.0",
-    "sass": "^1.89.2"
+    "gulp-sourcemaps": "^2.6.5",
+    "gulp-terser": "^2.1.0",
+    "sass": "^1.89.2",
+    "sharp": "^0.34.2"
   }
 }
