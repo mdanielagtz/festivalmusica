@@ -15,7 +15,6 @@
 <img src="https://img.shields.io/badge/Markdown-black" alt="Markdown" />
 <img src="https://img.shields.io/badge/npm-red" alt="npm" />
 <img src="https://img.shields.io/badge/JavaScript-yellow" alt="JavaScript" />
-<img src="https://img.shields.io/badge/Sharp-green" alt="Sharp" />
 <img src="https://img.shields.io/badge/Sass-pink" alt="Sass" />
 <img src="https://img.shields.io/badge/Gulp-red" alt="Gulp" />
 </p>
