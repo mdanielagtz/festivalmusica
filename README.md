@@ -35,7 +35,7 @@
 **festivalmusica-netlify** is a comprehensive development setup tailored for creating vibrant, responsive festival websites. It leverages automation tools like **Gulp** and **SASS** to streamline styling, scripting, and image optimization, ensuring a smooth workflow from development to production.
 
 <p align="center">
-  <a href="https://festivalmusica-html5-css3.netlify.app/">Click here to see Demo</a>
+  <a href="https://festivalmusica-html5-css3.netlify.app/">See prototype</a>
 </p>
 
 ### Why festivalmusica?
